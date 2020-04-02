@@ -1,10 +1,15 @@
 00#VERS#LENGTH###: 44827
 00#VERS#URI######: 0456IbnHazm.JawamicSira.Shamela0009728-ara1
-80#VERS#BASED####: https://ia902702.us.archive.org/20/items/waq75953/75953.pdf, permalink, permalink
+80#VERS#BASED####:
+    https://ia902702.us.archive.org/20/items/waq75953/75953.pdf, permalink,
+    permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 90#VERS#ANNOTATOR: Hibaq Nur (Qatar National Library partnership)
-90#VERS#COMMENT##: The annotator has used this edition of the book available on Waqfeya.com 
-(https://ia902702.us.archive.org/20/items/waq75953/75953.pdf) as a reference to be compared to the text for annotation. Annotated by Hibaq Nur through the QNL partnership for the DSP project.
+90#VERS#COMMENT##: The annotator has used this edition of the book
+    available on Waqfeya.com
+    (https://ia902702.us.archive.org/20/items/waq75953/75953.pdf) as a
+    reference to be compared to the text for annotation. Annotated by Hibaq
+    Nur through the QNL partnership for the DSP project.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas
