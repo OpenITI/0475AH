@@ -3,12 +3,31 @@
 00#VERS#URI######: 0474IbnKhalafBaji.MuntaqaMinSharhMuwatta.Sham19Y0006684-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#LINKS####: https://archive.org/details/MuntaqaBaji/00/
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This text file was badly converted;
+    on most pages, paragraphs were jumbled,
+    and titles often appeared on the wrong pages. 
+    The page numbers come from the Cairo edition, 
+    but it seems the Shamela text was converted from a digital source
+    that presented the text of the Muwatta' separately from the commentary.
+    PV manually corrected the first 130 pages, 
+    then wrote a script to correct the order of the paragraphs.
+    The text contains multiple section levels; apart from the main
+    subject levels, there are faṣl, mas'ala, farʿ, farq, bāb sections.
+    No attempt has been made to create a hierarchy of those lower levels;
+    they were usually all given third-level heading tags (### ||| ).
+    The text also contains special sections marked with ṣād and shīn; 
+    these seem to be the original text of the muwaṭṭa' and commentary. 
+    These I have marked as ### ||| $ . 
+    They are always in the order ṣād - shīn. I used this order to check
+    for mistakes in the new order created by the script: whenever a ṣād 
+    section was not followed by a shīn section, something was clearly wrong.
+    Most often, this was caused by section titles that were in the wrong place.
+    I finished this check for the entire book. 
+    A next check should be to manually check all the section titles. 
+    I have only reached volume 2, p. 35 with this additional check.
+    It is likely that even after this very labour-intensive cleaning, 
+    this text will remain far from perfect.
+90#VERS#DATE#####: 2020-12-18
+90#VERS#ISSUES###: TEXT_QUALITY
