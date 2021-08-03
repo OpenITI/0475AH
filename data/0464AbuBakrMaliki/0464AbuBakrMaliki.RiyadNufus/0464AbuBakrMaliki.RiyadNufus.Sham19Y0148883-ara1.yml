@@ -8,5 +8,9 @@
 90#VERS#COMMENT##: The text contains numerous Latin index texts,
     numerous footnotes and repetitions were deleted manually, milestones
     need to be inserted again, paragraphs are mostly correct.
+    NB: check lines of poetry that seem too short: line numbers 88, 350, 352,
+    353
+    NB: check lines of poetry that seem too long: line numbers 8276, 8296,
+    13006, 13597
 90#VERS#DATE#####: 2020-04-12
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, EDITORIAL_SECTIONS,

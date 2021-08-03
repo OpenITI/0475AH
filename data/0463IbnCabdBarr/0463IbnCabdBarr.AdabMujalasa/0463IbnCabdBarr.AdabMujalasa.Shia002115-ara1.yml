@@ -8,5 +8,7 @@
 90#VERS#COMMENT##: the text is clean, editorial sections not present;
     there is a parratext (scribal note) present in the printed edition, but
     deleted from the e-text.
+    NB: check lines of poetry that seem too long: line numbers 77, 88, 177, 187,
+    250, 256, 258, 267, 290, 294, 295, 303, 306, 400, 461, 470, 478
 90#VERS#DATE#####: 2020-06-07
 90#VERS#ISSUES###: NO_MAJOR_ISSUES,
