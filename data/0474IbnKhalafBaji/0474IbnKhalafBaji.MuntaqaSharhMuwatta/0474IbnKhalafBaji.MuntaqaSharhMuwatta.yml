@@ -1,10 +1,10 @@
-00#BOOK#URI######: 0455IbnHamdBarujirdi.FathCalaAbiFath
+00#BOOK#URI######: 0474IbnKhalafBaji.MuntaqaSharhMuwatta
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: al-Muntaqá šarḥ Muwaṭṭaʾ
+10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#RELATED##: 0392IbnJinniMawsili.FathWahbi (COMM.radd)
+40#BOOK#RELATED##: 0179MalikIbnAnas.Muwatta (COMM.sharh)
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
