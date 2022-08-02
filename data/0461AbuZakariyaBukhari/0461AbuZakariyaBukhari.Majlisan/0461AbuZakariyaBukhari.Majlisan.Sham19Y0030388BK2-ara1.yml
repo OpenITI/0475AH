@@ -3,7 +3,9 @@
 00#VERS#URI######: 0461AbuZakariyaBukhari.Majlisan.Sham19Y0030388BK2-ara1
 80#VERS#BASED####: NOT_FOUND
 80#VERS#COLLATED#: NOT_FOUND
-80#VERS#LINKS####: NOT_FOUND
+80#VERS#LINKS####: NOT_FOUND,
+    https://api.alukah.net/manu/files/manuscript_3018/makhtot.pdf (pages in PDF:9
+    ff)
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: This text is part of a juz' that also contained
     a majlis with the dictation of Abu al-Ḥusayn al-Fārisī.
