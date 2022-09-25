@@ -18,5 +18,6 @@
     3065, 3066, 3082, 3104, 3106, 3107, 3111, 3112, 3183, 3188, 3409, 3410, 3419,
     3545, 3548, 3549, 3553, 3562, 3563, 3580, 3582, 3583, 3586, 3606, 3607, 3608,
     3611, 3629, 3630, 3638, 3639, 3718, 3766, 3768, 3769, 3771, 3772, 3860
+   NOTE OF THE REVIEWER (HRH): I deleted the tags for second and third- level headers since they are all part of sentences and cannot be tagged as headers. I also changed the tag for the two appendixes to PARATEXT since their authors seems to be premodern, although I couldn’t find any information about them. If they have identity, it’s better to split off their parts under their own names.
 90#VERS#DATE#####: 2020-10-01
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: APPENDIX
