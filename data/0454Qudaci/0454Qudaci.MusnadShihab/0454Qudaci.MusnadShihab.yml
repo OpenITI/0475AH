@@ -1,7 +1,7 @@
-00#BOOK#URI######: 0456IbnHazm.RisalatTalkhis
+00#BOOK#URI######: 0454Qudaci.MusnadShihab
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: al-Talḫīṣ li-wuǧūh al-taḫlīṣ
-10#BOOK#TITLEB#AR: 
+10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
