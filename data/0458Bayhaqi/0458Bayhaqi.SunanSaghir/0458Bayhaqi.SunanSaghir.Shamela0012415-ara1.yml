@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://archive.org/details/waq69061
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: From PageV03P282 onwards, the numbers of Hadiths are
-    wrong in the digital text.
+        wrong in the digital text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-07
-90#VERS#ISSUES###: PAGINATION, HTML_TAGS
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

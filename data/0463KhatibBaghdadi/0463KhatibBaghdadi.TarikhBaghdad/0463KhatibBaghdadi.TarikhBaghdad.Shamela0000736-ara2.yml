@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/WAQtaba
 90#VERS#ANNOTATOR: ANON, PV
 90#VERS#COMMENT##: Pagination was only partially successfully
-    implemented; often, the page number of the first page of a biography
-    will be after the end of the biography, even if the biography spreads
-    multiple pages.
+        implemented; often, the page number of the first page of a biography
+        will be after the end of the biography, even if the biography spreads
+        multiple pages.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-13
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

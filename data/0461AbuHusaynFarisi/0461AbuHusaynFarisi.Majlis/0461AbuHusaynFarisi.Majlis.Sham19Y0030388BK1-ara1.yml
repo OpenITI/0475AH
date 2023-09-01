@@ -4,12 +4,15 @@
 80#VERS#BASED####: NOT_FOUND
 80#VERS#COLLATED#: NOT_FOUND
 80#VERS#LINKS####: NOT_FOUND,
-    https://api.alukah.net/manu/files/manuscript_3018/makhtot.pdf
+        https://api.alukah.net/manu/files/manuscript_3018/makhtot.pdf
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: This text is part of a juz' that also contained
-    two majlisān with the dictation of Abu Zakariya al-Bukhārī.
-    PV split both texts and fixed the structural tagging and pagination.
-    The text comes from the program Jawāmiʿ al-Kalam,
-    https://archive.org/details/GK4.5_201810
+        two majlisān with the dictation of Abu Zakariya al-Bukhārī.
+        PV split both texts and fixed the structural tagging and pagination.
+        The text comes from the program Jawāmiʿ al-Kalam,
+        https://archive.org/details/GK4.5_201810
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022-06-16
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

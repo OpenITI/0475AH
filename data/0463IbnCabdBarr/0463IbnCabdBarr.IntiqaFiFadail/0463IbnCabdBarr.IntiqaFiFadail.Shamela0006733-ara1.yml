@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://books.islamway.net/1/058_Islamway_books_Ullum_AL_Hadith_549.pdf
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: I could not locate the edition of Dar al-Kutub al-'Ilmiyya online which is the base text for the digital version, although there are print versions still available. However, the  Maktabat al-Qudusi edition is the same, including the pagination, and I have used this to collate. Very occasionally, a title was missing, otherwise corresponding closely to the printed ed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-08
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

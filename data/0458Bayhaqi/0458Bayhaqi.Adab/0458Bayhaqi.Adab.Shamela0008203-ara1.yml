@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://archive.org/details/adabbadabb/mode/2up
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- Although the PDF I have used for collation is exactly the same as the digital version, the numbers of Hadiths are different. 2- The sixth chapter in page 19 is missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-04-29
-90#VERS#ISSUES###: PAGINATION, MISSING_PARTS
+90#VERS#ISSUES###: PAGINATION, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

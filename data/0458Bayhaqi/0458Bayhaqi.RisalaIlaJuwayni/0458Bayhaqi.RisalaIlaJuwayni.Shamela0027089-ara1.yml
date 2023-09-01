@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://k-tb.com/book/hadeeth5981-رسالة-الإمام-أبي-بكر-البيهقي-إلى-الإمام-أبي-محمد-الجويني-تحوي-مسائل-في-علم-الحديث-وغيره
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The subject matters (that are very short) are separated by asterisks or squares but none of them have title or anything else that can be tagged.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-05
-90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
