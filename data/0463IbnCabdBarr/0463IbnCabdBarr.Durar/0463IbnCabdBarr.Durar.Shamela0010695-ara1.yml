@@ -12,5 +12,6 @@
     (https://ia800903.us.archive.org/29/items/demsPDF/dems.pdf) as a
     reference to be compared to the text for annotation. Annotated by Hibaq
     Nur through the QNL partnership for the DSP project.
+    PV removed editorial sections.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
