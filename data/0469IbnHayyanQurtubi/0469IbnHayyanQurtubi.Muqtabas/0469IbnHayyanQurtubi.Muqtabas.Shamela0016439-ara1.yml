@@ -6,10 +6,12 @@
 80#VERS#LINKS####: http://wadod.net/bookshelf/book/411
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good edition corresponding closely to the printed
-        edition. The shamela edition was well tagged but the hierarchy needed
-        attention.
+    edition. The shamela edition was well tagged but the hierarchy needed
+    attention.
     All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0469IbnHayyanQurtubi/0469IbnHayyanQurtubi.Muqtabas/0469IbnHayyanQurtubi.Muqtabas.Shamela0016439-ara1.completed
 90#VERS#DATE#####: 2020-05-08
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
