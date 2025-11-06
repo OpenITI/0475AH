@@ -1,5 +1,5 @@
 00#AUTH#URI######: 0458Bayhaqi
-10#AUTH#ISM####AR: Aḥmad 
+10#AUTH#ISM####AR: Aḥmad
 10#AUTH#KUNYA##AR: Abū-Bakr
 10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. al-Ḥusayn b. ʿAlī b. Mūsá
@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0458-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q293663
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI3: "Abū Bakr Aḥmad b. al-Ḥusayn al-Bayhaqī (d. 458/1066) was a Shāfiʿī jurist and an Ashʿarī theologian who worked extensively in the field of ḥadīth. Al-Bayhaqī was born in 384/994 in Khusrawjird, a village near Bayhaq (present-day Sabzevār), in northeastern Iran.": https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-3/al-bayhaqi-abu-bakr-COM_23711?s.num=0&s.f.s2_parent=s.f.book.encyclopaedia-of-islam-3&s.q=bayhaqi

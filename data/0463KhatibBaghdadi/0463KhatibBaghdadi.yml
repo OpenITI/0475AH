@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0463KhatibBaghdadi
 10#AUTH#ISM####AR: Aḥmad
 10#AUTH#KUNYA##AR: Abū Bakr
-10#AUTH#LAQAB##AR:
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. ʿAlī b. Ṯābit b. Aḥmad b. Mahdī
 10#AUTH#NISBA##AR: al-Šāfiʿī, al-Baġdādī
 10#AUTH#SHUHRA#AR: al-Ḫaṭīb al-Baġdādī
@@ -15,6 +15,7 @@
 30#AUTH#DIED###AH: 0463-DHH-07
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q557961
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "al-K̲h̲aṭīb al-Bag̲h̲dādī, Abū Bakr Aḥmad
     b. ʿAlī b. T̲h̲ābit b. Aḥmad b. Mahdī al-S̲h̲āfiʿī ,

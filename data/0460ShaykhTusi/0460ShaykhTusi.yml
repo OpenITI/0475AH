@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0459-XXX-XX or 0460-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q4116347
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Muḥammad b. al-Ḥasan b. ʿAlī Abū D̲j̲aʿfar, Imāmī S̲h̲īʿī scholar, b. Ramaḍān 385/995 in Ṭūs, d. 459 or 460/1066-7 in Nad̲j̲af.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_7653

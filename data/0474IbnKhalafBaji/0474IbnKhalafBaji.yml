@@ -16,5 +16,6 @@
 30#AUTH#DIED###AH: 494-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q4670455
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Walīd Sulaymān b. Ḵh̲alaf, a distinguished theologian and literary figure in 11th-century Spain. Born in 403/1012 of a family from Baṭalyaws (Badajoz) which had emigrated to Bād̲j̲a, modern Beja in S. Portugal": http://dx.doi.org/10.1163/1573-3912_islam_SIM_1009
